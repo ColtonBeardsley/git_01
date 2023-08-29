@@ -15,6 +15,11 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+And cannot pleasures, while they last,  
+Be actual unless, when past,  
+They leave us shuddering and aghast,  
+With anguish smarting?  
+And cannot friends be firm and fast,  
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
@@ -24,3 +29,15 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+In fields of gold, the sun does dance,  
+A symphony of nature's trance.  
+Whispers of wind through trees do play,  
+As time spins on in endless sway.  
+
+Stars above, like diamonds gleam,  
+Illuminating night's grand dream.  
+Love's tender touch, a soothing balm,  
+In life's intricate, delicate psalm.  
+
+So let us cherish each fleeting day,  
+Embrace the beauty, come what may. 
